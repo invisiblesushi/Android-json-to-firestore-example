@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "27527145686",
+    "firebase_url": "https://restaurantfinder-ea005.firebaseio.com",
+    "project_id": "restaurantfinder-ea005",
+    "storage_bucket": "restaurantfinder-ea005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27527145686:android:c1f0f09aa42eba16",
+        "android_client_info": {
+          "package_name": "com.google.firebase.example.fireeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27527145686-5sl3q43p4acah335kl2rdthnc54pv2k0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.example.fireeats",
+            "certificate_hash": "7090a2a859019af8e5387b2027d289bd5502a08d"
+          }
+        },
+        {
+          "client_id": "27527145686-dr1l1pld5b298cvs4ddt6554f7turc47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGPs23e6Ur_p01AxKBSM4E5L0Yd50Uf0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27527145686-dr1l1pld5b298cvs4ddt6554f7turc47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27527145686:android:93b7cb0f6fd2e478",
+        "android_client_info": {
+          "package_name": "no.hiof.danielch.jsontofirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27527145686-6k4aama8gnk2u1aliha2s5ibv89hpg2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "no.hiof.danielch.jsontofirestore",
+            "certificate_hash": "7090a2a859019af8e5387b2027d289bd5502a08d"
+          }
+        },
+        {
+          "client_id": "27527145686-dr1l1pld5b298cvs4ddt6554f7turc47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGPs23e6Ur_p01AxKBSM4E5L0Yd50Uf0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27527145686-dr1l1pld5b298cvs4ddt6554f7turc47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27527145686:android:b4ccd8e205925a28",
+        "android_client_info": {
+          "package_name": "no.hiof.danielch.restaurantfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27527145686-gplr9po62pss6jl9va7g5moa4geq6sd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "no.hiof.danielch.restaurantfinder",
+            "certificate_hash": "7090a2a859019af8e5387b2027d289bd5502a08d"
+          }
+        },
+        {
+          "client_id": "27527145686-uffp0be38gs3aec6lspsv73l701sou11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "no.hiof.danielch.restaurantfinder",
+            "certificate_hash": "4488eb210b8ac6acd7af220aa906fbd18427d0b8"
+          }
+        },
+        {
+          "client_id": "27527145686-f12m7uvi4ar0rqei5p2is1jqfpc4sob1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "no.hiof.danielch.restaurantfinder",
+            "certificate_hash": "2d5a62c78b30fde0240ecb1cd6bd9f702fd6b03b"
+          }
+        },
+        {
+          "client_id": "27527145686-dr1l1pld5b298cvs4ddt6554f7turc47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGPs23e6Ur_p01AxKBSM4E5L0Yd50Uf0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27527145686-dr1l1pld5b298cvs4ddt6554f7turc47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
